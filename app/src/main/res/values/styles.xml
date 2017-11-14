@@ -1,0 +1,109 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/dark_blue</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="animation_style">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+    <!--<style name="CustomActivityAnimation" parent="@android:style/Animation.Activity">-->
+        <!--<item name="android:activityOpenEnterAnimation">@android:anim/fade_in</item>-->
+        <!--<item name="android:activityOpenExitAnimation">@android:anim/fade_out</item>-->
+        <!--<item name="android:activityCloseEnterAnimation">@android:anim/fade_in</item>-->
+        <!--<item name="android:activityCloseExitAnimation">@android:anim/fade_out</item>-->
+    <!--</style>-->
+    <style name="RedTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/dark_red</item>
+        <item name="colorAccent">@color/red_Accent</item>
+        <item name="android:windowAnimationStyle">@style/animation_style</item>
+    </style>
+    <style name="PinkTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorPrimaryDark">@color/dark_pink</item>
+        <item name="colorAccent">@color/pink_Accent</item>
+        <item name="android:windowAnimationStyle">@style/animation_style</item>
+    </style>
+    <style name="PurpleTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryDark">@color/dark_purple</item>
+        <item name="colorAccent">@color/purple_Accent</item>
+        <item name="android:windowAnimationStyle">@style/animation_style</item>
+    </style>
+    <style name="IndigoTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/indigo</item>
+        <item name="colorPrimaryDark">@color/dark_indigo</item>
+        <item name="colorAccent">@color/indigo_Accent</item>
+        <item name="android:windowAnimationStyle">@style/animation_style</item>
+    </style>
+    <style name="BlueTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/dark_blue</item>
+        <item name="colorAccent">@color/blue_Accent</item>
+        <item name="android:windowAnimationStyle">@style/animation_style</item>
+    </style>
+    <style name="TealTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/teal</item>
+        <item name="colorPrimaryDark">@color/dark_teal</item>
+        <item name="colorAccent">@color/teal_Accent</item>
+        <item name="android:windowAnimationStyle">@style/animation_style</item>
+    </style>
+    <style name="GreenTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/dark_green</item>
+        <item name="colorAccent">@color/green_Accent</item>
+        <item name="android:windowAnimationStyle">@style/animation_style</item>
+    </style>
+    <style name="OrangeTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryDark">@color/dark_orange</item>
+        <item name="colorAccent">@color/orange_Accent</item>
+        <item name="android:windowAnimationStyle">@style/animation_style</item>
+    </style>
+    <style name="DeepOrangeTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/deep_orange</item>
+        <item name="colorPrimaryDark">@color/dark_deep_orange</item>
+        <item name="colorAccent">@color/deep_orange_Accent</item>
+        <item name="android:windowAnimationStyle">@style/animation_style</item>
+    </style>
+    <style name="BrownTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/brown</item>
+        <item name="colorPrimaryDark">@color/dark_brown</item>
+        <item name="colorAccent">@color/brown_Accent</item>
+        <item name="android:windowAnimationStyle">@style/animation_style</item>
+    </style>
+    <style name="BlueGrayTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/blue_gray</item>
+        <item name="colorPrimaryDark">@color/dark_blue_gray</item>
+        <item name="colorAccent">@color/blue_gray_Accent</item>
+        <item name="android:windowAnimationStyle">@style/animation_style</item>
+    </style>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:icon="@drawable/list"
+        android:title="Recycler View">
+    </item>
+    <item
+        android:icon="@drawable/upload"
+        android:title="Scrolling">
+    </item>
+    <item
+        android:icon="@drawable/fullscreen"
+        android:title="FullScreen">
+    </item>
+    <item
+        android:icon="@drawable/botton"
+        android:title="Bottom Navigation">
+    </item>
+    <item
+        android:icon="@drawable/settings"
+        android:title="Settings">
+    </item>
+</group>
+  <group android:id="@+id/group2">
+      <item
+          android:icon="@drawable/error"
+          android:title="About">
+      </item>
+      <item
+          android:icon="@drawable/atm"
+          android:title="Donations">
+      </item>
+  </group>
+    <item android:title="My Apps">
+        <menu>
+            <item
+                android:icon="@drawable/color"
+                android:title="Material Design Color">
+            </item>
+        </menu>
+    </item>
+</menu>

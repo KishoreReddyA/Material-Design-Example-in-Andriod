@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="txt_red">RED THEME</string>
+    <string name="txt_pink">PINK THEME</string>
+    <string name="txt_purple">PURPLE THEME</string>
+    <string name="txt_indigo">INDIGO THEME</string>
+    <string name="txt_blue">BLUE THEME</string>
+    <string name="txt_teal">TEAL THEME</string>
+    <string name="txt_green">GREEN THEME</string>
+    <string name="txt_orange">ORANGE THEME</string>
+    <string name="txt_deep_orange">DEEP ORANGE THEME</string>
+    <string name="txt_brown">BROWN THEME</string>
+    <string name="txt_blue_gray">BLUE GRAY THEME</string>
+</resources>
